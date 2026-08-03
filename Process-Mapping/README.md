@@ -18,3 +18,4 @@ This case study demonstrates end-to-end business process re-engineering within a
 * `Bottleneck-Analysis.md` – Quantifies operational risks and time delays.
 * `Future-State-Swimlane.png` – Outlines updated actor roles and parallel notification pathways.
 * `Future-State-BPMN.png` – Details micro-level system execution, API triggers, and fail-safe timers.
+* `Future-State-Solution.md` – Executive narrative summarizing system architecture transformation, technical mechanics, and key clinical impact metrics.
