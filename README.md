@@ -7,7 +7,7 @@ The focus is on clarity, traceability, and professional documentation — reflec
 
 ---
 
-## Project Index
+## Project Details
 
 ### **Project 1: ICU Early Warning System (EWS) — Process Mapping**
 Redesign of a legacy ICU triage workflow into an automated Early Warning System to reduce clinical latency and improve coordination.
