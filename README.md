@@ -18,7 +18,7 @@ Redesign of a legacy ICU triage workflow into an automated Early Warning System 
 - **Future‑State Solution Narrative** detailing system logic and outcomes  
 
 **Access Project Folder:**  
-➡️ [Process‑Mapping](./1-Process-Mapping/README.md)
+➡️ [Process‑Mapping](./1-Process-Mapping)
 
 ---
 
