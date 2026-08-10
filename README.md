@@ -67,8 +67,6 @@ Folder:
 ---
 
 
----
-
 ## Professional Intent
 This repository serves as a portfolio artifact for Business Systems Analyst roles.  
 It demonstrates mastery in process visualization, workflow optimization, requirements documentation, and data‑driven design — essential for enterprise transformation and system integration projects.
