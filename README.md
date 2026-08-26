@@ -32,6 +32,8 @@ This section will include:
 - **Acceptance Criteria**  
 - **Use Case Diagram**  
 - **Traceability Matrix**
+- **Jira Integration** *(sample issues and sprint board screenshots showing how requirements map to Agile workflows)*
+
 
 These artifacts will extend the EWS project from workflow modeling into full requirements definition, demonstrating structured analysis and documentation skills.
 
