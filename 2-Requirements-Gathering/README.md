@@ -36,7 +36,7 @@ The BRD serves as the primary requirements artifact for this project and include
 - Requirements Traceability Matrix (RTM)
 - Acceptance Criteria
 
-📄 **View Full BRD:** BRD-Full.md
+📄 **View Full BRD:** [Business Requirements Document (BRD)](https://github.com/ilin3ccc/Enterprise-Systems-and-Functional-BSA-Portfolio/blob/eed944ad5d20c4cc5369fbba7d50c413954ec76b/2-Requirements-Gathering/BRD-Full.md)
 
 ---
 
