@@ -1,6 +1,6 @@
 # Requirements Gathering
 
-This section demonstrates the requirements elicitation, analysis, priorititization, and specification activities performed during the redesign of an ICU Early Warning System (EWS).
+This section demonstrates the requirements elicitation, analysis, prioritization, and specification activities performed during the redesign of an ICU Early Warning System (EWS).
 
 The artifacts within this section trace the progression from business needs and stakeholder concerns to documented requirements, traceability, and future-state solution design.
 
@@ -47,28 +47,25 @@ The artifacts within this section trace the progression from business needs and 
 
 - ./BRD-Full.md#4-current-state--future-state-process-architecture
 - ./BRD-Full.md#41-current-state-overview-as-is
-- ./BRD-Full.md#42-future-state-overview-to-be
+- [4.2D-Full.md#42-future-state-overview-to-be
 - ./BRD-Full.md#43-key-workflow-changes
 
 #### Requirements
 
-- ./BRD-Full.md#5-business--functional-requirements
-- ./BRD-Full.md#51-business-rules
-- ./BRD-Full.md#52-functional-requirements-moscow
-- [Non-Functional Requirements (NFRs)uirements-nfrs
+- [Section 5 – Business & Functional l-requirements
+- [5.1 Business Rules](./BRD-Full.md#512 Functional Requirements (MoSCoW)nts-moscow
+- [5.3 Non-Functional Requirements (NFRsements-nfrs
 
 #### Integration & Data Flow
 
-- ./BRD-Full.md#6-system-integration--data-touchpoints
-- [Systemull.md#61-system-interfaces
-- [/BRD-Full.md#62-data-flow-overview
-- [Role-Based Access Considerations](./BRiderations
+- [Section 6 – System Integration & Data Touchchpoints
+- [/BRD-Full.md#61-system-interfaces
+- ./BRD-Full.md#62-data-flow-overview
+- [6.3 Role-Based Access Consideress-considerations
 
 #### Validation & Traceability
 
-- ./BRD-Full.md#7-traceability--acceptance-criteria
-- [Requirements Traceability Matrix](./BRD-F-matrix
-- ./BRD-Full.md#72-acceptance-criteria
+- [Section 7 – Traceability & Acceptance Criteria](./BRD.1 Requirements Traceability Matrix](./BRD-Full.md#71-requirements-acceptance-criteria
 
 ---
 
@@ -97,7 +94,7 @@ The Requirements Gathering section is designed to demonstrate the complete requi
 - Functional Specification Document (FSD)
 - User Stories & Acceptance Criteria Package
 - Use Case Diagram
-- Traceability Matrix (Stand-Alone Version)
+- Stand-Alone Traceability Matrix
 - Jira Requirements Management Examples
 - Sprint Board & Backlog Samples
 
